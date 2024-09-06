@@ -1,0 +1,851 @@
+.frame-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.screenshot-2024-09-03-at-1148 {
+  position: absolute;
+  top: 0;
+  left: 20px;
+  width: 209px;
+  height: 107px;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 1;
+}
+.about,
+.work {
+  top: 42px;
+  width: 182px;
+  height: 39px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+}
+.work {
+  text-decoration: none;
+  position: absolute;
+  left: 899px;
+  line-height: 30px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.about {
+  left: 1011px;
+}
+.about,
+.latitude,
+.propulsion {
+  text-decoration: none;
+  position: absolute;
+  line-height: 30px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.propulsion {
+  top: 42px;
+  left: 1241px;
+  width: 182px;
+  height: 39px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.latitude {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.frame-item {
+  position: absolute;
+  top: 3px;
+  left: 41px;
+  filter: blur(100px);
+  background-color: var(--color-black);
+  width: 100px;
+  height: 36px;
+  z-index: 2;
+}
+.latitude-parent {
+  position: absolute;
+  top: 42px;
+  left: 1130px;
+  width: 182px;
+  height: 39px;
+}
+.vector-parent {
+  align-self: stretch;
+  height: 115px;
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}
+.face-products {
+  margin: 0;
+  width: 425px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 4px;
+  line-height: 22px;
+  font-weight: 800;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.face-products-wrapper,
+.frame-group {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.face-products-wrapper {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-group {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 65px;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro);
+}
+.beaut-home-product-catalogue-p {
+  height: 398.4px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.gold-face-wash-image {
+  width: 218px;
+  height: 398.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl);
+  box-sizing: border-box;
+}
+.enriched-with-24k,
+.gold-face-wash {
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.gold-face-wash {
+  align-self: stretch;
+}
+.enriched-with-24k {
+  width: 213px;
+  display: flex;
+  align-items: center;
+}
+.gold-face-wash-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-15xl);
+}
+.div {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.gold-face-wash-price {
+  width: 237px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 12px;
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.gold-face-wash-details,
+.gold-face-wash-name {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.gold-face-wash-name {
+  flex: 1;
+  flex-direction: column;
+  gap: 1px;
+}
+.gold-face-wash-details {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 37.4px var(--padding-11xs);
+  box-sizing: border-box;
+}
+.gold-face-wash-button-child {
+  height: 70px;
+  width: 217px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+}
+.buy-now {
+  width: 97px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 97px;
+  z-index: 1;
+}
+.gold-face-wash-button,
+.gold-face-wash-card {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gold-face-wash-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xl) var(--padding-41xl) var(--padding-5xl);
+  background-color: var(--color-black);
+  flex-direction: row;
+  white-space: nowrap;
+}
+.gold-face-wash-button:hover,
+.vitamin-c-serum-buy:hover {
+  background-color: var(--color-darkslategray);
+}
+.gold-face-wash-card {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 42px;
+  box-sizing: border-box;
+  gap: 16.6px;
+  max-width: 100%;
+}
+.beaut-home-product-catalogue-p1 {
+  height: 400px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.cow-milk-face-wash-image {
+  width: 217.5px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-15xl);
+  box-sizing: border-box;
+}
+.deep-cleanses-pores {
+  width: 213px;
+  height: 50px;
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.cow-milk-face-wash-name {
+  flex-direction: column;
+  gap: 11px;
+}
+.cow-milk-face-wash-details,
+.cow-milk-face-wash-name,
+.cow-milk-face-wash-price {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cow-milk-face-wash-price {
+  flex-direction: row;
+  padding: 0 var(--padding-smi);
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.cow-milk-face-wash-details {
+  flex-direction: column;
+  padding: 0 0 var(--padding-mid);
+  gap: 7px;
+}
+.buy-now1 {
+  text-decoration: none;
+  width: 97px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 97px;
+  z-index: 1;
+}
+.cow-milk-face-wash-card,
+.cow-milk-face-wash-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.cow-milk-face-wash-card {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-12xl);
+}
+.cow-milk-face-wash-card-wrapper {
+  width: 287px;
+  height: 697px;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+}
+.vitamin-c-serum-image {
+  width: 190.1px;
+  flex: 1;
+  padding: 0 var(--padding-4xl);
+  box-sizing: border-box;
+}
+.vitamin-c-serum-buy,
+.vitamin-c-serum-image,
+.vitamin-c-serum-rupee {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vitamin-c-serum-rupee {
+  align-self: stretch;
+  padding: 0 0 0 var(--padding-smi);
+}
+.vitamin-c-serum-buy {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xl) var(--padding-41xl);
+  background-color: var(--color-black);
+  white-space: nowrap;
+}
+.vitamin-c-serum-card,
+.vitamin-c-serum-details,
+.vitamin-c-serum-rupee-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.vitamin-c-serum-rupee-parent {
+  width: 226px;
+  gap: var(--gap-26xl);
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.vitamin-c-serum-card,
+.vitamin-c-serum-details {
+  align-self: stretch;
+}
+.vitamin-c-serum-details {
+  gap: 29.5px;
+}
+.vitamin-c-serum-card {
+  flex: 1;
+  gap: var(--gap-lg);
+}
+.vitamin-c-serum-card-wrapper {
+  width: 362px;
+  height: 702px;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.charcoal-neem-scrub-image,
+.gold-face-wash-card-parent,
+.vitamin-c-serum-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gold-face-wash-card-parent {
+  width: 452px;
+  flex-direction: column;
+  gap: var(--gap-70xl);
+  min-width: 452px;
+  max-width: 100%;
+}
+.charcoal-neem-scrub-image {
+  width: 218.6px;
+  height: 411px;
+  flex-direction: row;
+  padding: 0 var(--padding-13xl) var(--padding-2xs);
+  box-sizing: border-box;
+}
+.charcoal-neem {
+  flex: 1;
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+  display: inline-block;
+  max-width: 100%;
+}
+.charcoal-neem-scrub-details {
+  width: 350px;
+  flex-direction: row;
+  padding: 0 0 var(--padding-6xs);
+  max-width: 100%;
+}
+.charcoal-neem-scrub-card,
+.charcoal-neem-scrub-details,
+.charcoal-neem-scrub-price {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.charcoal-neem-scrub-price {
+  width: 255px;
+  flex-direction: row;
+  padding: 0 var(--padding-2xl) var(--padding-21xl);
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.charcoal-neem-scrub-card {
+  width: 390px;
+  flex-direction: column;
+  padding: 0 var(--padding-xl) 120px 0;
+  gap: 4px;
+  max-width: 100%;
+}
+.multivitamins-face-wash {
+  position: absolute;
+  top: 398px;
+  left: 0;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  width: 467px;
+  height: 30px;
+}
+.beaut-home-product-catalogue-p4 {
+  position: absolute;
+  top: 0;
+  left: 28px;
+  width: 139.2px;
+  height: 400px;
+  object-fit: cover;
+  z-index: 1;
+}
+.multivitamins-face-wash-card {
+  height: 428px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+}
+.multivitamins-face-wash-card-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-lgi) var(--padding-13xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.advance-brightening-effect,
+.div4 {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.advance-brightening-effect {
+  align-self: stretch;
+  height: 50px;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+  flex-shrink: 0;
+}
+.div4 {
+  width: 213px;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--wwwbobbibrownin-thunder-65);
+  white-space: nowrap;
+}
+.advance-brightening-name {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.advance-brightening-card,
+.advance-brightening-details,
+.advance-brightening-name {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.advance-brightening-details {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xs);
+}
+.advance-brightening-card {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-34xl);
+}
+.advance-brightening-card-wrapper,
+.glutathione-face-serum-image {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.advance-brightening-card-wrapper {
+  width: 336px;
+  padding: 0 var(--padding-2xl) var(--padding-41xl);
+  max-width: 100%;
+}
+.glutathione-face-serum-image {
+  width: 177.7px;
+  height: 400px;
+  padding: 0 var(--padding-7xs);
+}
+.glutathione-niacinamide {
+  margin: 0;
+}
+.glutathione-niacinamide-container,
+.traps-the-moisture {
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.traps-the-moisture {
+  width: 311px;
+  display: flex;
+  align-items: center;
+}
+.glutathione-face-serum-card,
+.glutathione-face-serum-card-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.glutathione-face-serum-card {
+  flex-direction: column;
+  gap: 9px;
+}
+.glutathione-face-serum-card-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-2xl);
+  box-sizing: border-box;
+}
+.glutathione-face-serum-details {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-26xl);
+}
+.glutathione-face-serum-price {
+  width: 268px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-2xl);
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.charcoal-neem-scrub-card-parent {
+  width: 499px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-10xl);
+  min-width: 499px;
+  max-width: 100%;
+}
+.frame-container,
+.products-grid {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-container {
+  flex: 1;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.products-grid {
+  width: 1223px;
+  justify-content: flex-end;
+  padding: 0 var(--padding-lgi);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro);
+}
+.frame-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 138px;
+  max-width: 100%;
+}
+.footer-child {
+  width: 1440px;
+  height: 418px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.screenshot-2024-09-03-at-11481 {
+  height: 131px;
+  width: 278px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.footer-content {
+  width: 454px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.icon-instagram {
+  width: 33px;
+  height: 33.3px;
+  position: relative;
+  z-index: 1;
+}
+.privacy-policy {
+  width: 454px;
+  position: relative;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer-info,
+.privacy-policy-terms-of-use-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-info {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-29xl-7);
+}
+.follow-us {
+  width: 454px;
+  position: absolute;
+  margin: 0 !important;
+  top: 84px;
+  right: -79px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  z-index: 1;
+}
+.desktop-4,
+.footer {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer {
+  align-self: stretch;
+  background-color: var(--color-white);
+  padding: 0 var(--padding-323xl) var(--padding-96xl) var(--padding-518xl);
+  box-sizing: border-box;
+  gap: var(--gap-42xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}
+.desktop-4 {
+  width: 100%;
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  gap: 178px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1000px) {
+  .charcoal-neem-scrub-card-parent,
+  .gold-face-wash-card-parent {
+    flex: 1;
+  }
+  .frame-container {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 975px) {
+  .face-products {
+    font-size: var(--font-size-21xl);
+    line-height: 18px;
+  }
+  .frame-group {
+    gap: 32px;
+  }
+  .gold-face-wash-card {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+  .charcoal-neem-scrub-card {
+    padding-bottom: 78px;
+    box-sizing: border-box;
+  }
+  .frame-parent {
+    gap: var(--gap-50xl);
+  }
+  .footer {
+    gap: var(--gap-11xl);
+    padding-left: var(--padding-249xl);
+    padding-right: var(--padding-152xl);
+    box-sizing: border-box;
+  }
+  .desktop-4 {
+    gap: var(--gap-70xl);
+  }
+}
+@media screen and (max-width: 725px) {
+  .charcoal-neem-scrub-card-parent,
+  .gold-face-wash-card-parent {
+    min-width: 100%;
+  }
+  .footer-info {
+    gap: var(--gap-5xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .face-products {
+    font-size: var(--font-size-11xl);
+    line-height: 13px;
+  }
+  .frame-group {
+    gap: var(--gap-base);
+  }
+  .enriched-with-24k,
+  .gold-face-wash {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .gold-face-wash-title {
+    gap: var(--gap-mid);
+  }
+  .deep-cleanses-pores {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .gold-face-wash-card-parent {
+    gap: var(--gap-25xl);
+  }
+  .charcoal-neem {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .charcoal-neem-scrub-card {
+    padding-bottom: var(--padding-32xl);
+    box-sizing: border-box;
+  }
+  .advance-brightening-effect,
+  .multivitamins-face-wash {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .advance-brightening-card {
+    gap: var(--gap-7xl);
+  }
+  .glutathione-niacinamide-container,
+  .traps-the-moisture {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .frame-parent {
+    gap: var(--gap-15xl);
+  }
+  .follow-us,
+  .privacy-policy {
+    font-size: var(--font-size-lgi);
+  }
+  .footer {
+    gap: var(--gap-mini);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-56xl);
+    box-sizing: border-box;
+  }
+  .desktop-4 {
+    gap: var(--gap-25xl);
+  }
+}

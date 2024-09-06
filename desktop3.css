@@ -1,0 +1,682 @@
+.frame-inner {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.screenshot-2024-09-03-at-11482 {
+  height: 107px;
+  width: 209px;
+  position: relative;
+  object-fit: cover;
+  cursor: pointer;
+  z-index: 1;
+}
+.about1,
+.work1 {
+  text-decoration: none;
+  line-height: 30px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 39px;
+  z-index: 1;
+}
+.work1 {
+  flex: 1;
+  position: relative;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+  cursor: pointer;
+}
+.about1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 182px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 7px;
+  left: 47px;
+  filter: blur(100px);
+  background-color: var(--color-black);
+  width: 100px;
+  height: 36px;
+  z-index: 2;
+}
+.about-parent {
+  height: 43px;
+  flex: 0.9579;
+  position: relative;
+  flex-shrink: 0;
+  margin-left: -71px;
+}
+.latitude1 {
+  cursor: pointer;
+}
+.latitude1,
+.propulsion1 {
+  text-decoration: none;
+  height: 39px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+  z-index: 1;
+  margin-left: -71px;
+}
+.latitude-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.latitude-parent-wrapper,
+.vector-group {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.latitude-parent-wrapper {
+  width: 524px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-3xl);
+}
+.vector-group {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-mid) var(--padding-5xs) var(--padding-xl);
+  position: sticky;
+  top: 0;
+  z-index: 99;
+  gap: var(--gap-xl);
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}
+.body-products {
+  margin: 0;
+  width: 425px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 4px;
+  line-height: 22px;
+  font-weight: 800;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.body-products-wrapper,
+.frame-section {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.body-products-wrapper {
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+}
+.frame-section {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 33px;
+  gap: 60px;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro);
+}
+.beaut-home-product-catalogue-p6 {
+  height: 405px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.beaut-home-product-catalogue-p-wrapper {
+  width: 188.4px;
+  height: 405px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.helpful-in-skin,
+.neem-aloevera {
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.neem-aloevera {
+  align-self: stretch;
+}
+.helpful-in-skin {
+  width: 334px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.neem-aloevera-body-wash-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  max-width: 100%;
+}
+.div6 {
+  width: 213px;
+  position: relative;
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--wwwbobbibrownin-thunder-65);
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+}
+.frame-parent2,
+.neem-aloevera-description {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent2 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.neem-aloevera-description {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-smi);
+  box-sizing: border-box;
+}
+.numbered-list-item-child {
+  height: 70px;
+  width: 217px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+}
+.buy-now6 {
+  width: 97px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 97px;
+  z-index: 1;
+}
+.numbered-list-item {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xl) var(--padding-41xl) var(--padding-5xl);
+  background-color: var(--color-black);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.multivitamin-button:hover,
+.numbered-list-item:hover {
+  background-color: var(--color-darkslategray);
+}
+.neem-aloevera-info {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+}
+.frame-parent1,
+.neem-aloevera-details,
+.neem-aloevera-info,
+.second-product {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent1 {
+  width: 382px;
+  flex-direction: column;
+  gap: var(--gap-lg);
+  max-width: 100%;
+}
+.neem-aloevera-details,
+.second-product {
+  flex-direction: row;
+}
+.neem-aloevera-details {
+  align-self: stretch;
+  max-width: 100%;
+}
+.second-product {
+  width: 223.1px;
+  padding: 0 var(--padding-4xl);
+  box-sizing: border-box;
+}
+.gentle-and-non-drying {
+  flex: 1;
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+}
+.gentle-and-non-drying-skin-wrapper,
+.multivitamin-body-wash-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gentle-and-non-drying-skin-wrapper {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+}
+.multivitamin-body-wash-parent {
+  flex-direction: column;
+  gap: var(--gap-11xl);
+}
+.div7 {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.multivitamin-details,
+.multivitamin-price {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.multivitamin-price {
+  width: 219px;
+  flex-direction: row;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.multivitamin-details {
+  align-self: stretch;
+  flex-direction: column;
+  gap: 21px;
+}
+.multivitamin-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xl) var(--padding-41xl);
+  background-color: var(--color-black);
+  flex-direction: row;
+  white-space: nowrap;
+}
+.multivitamin-button,
+.multivitamin-buy,
+.multivitamin-info,
+.second-catalogue {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.multivitamin-buy {
+  flex-direction: row;
+  padding: 0 var(--padding-10xs);
+}
+.multivitamin-info,
+.second-catalogue {
+  flex-direction: column;
+}
+.multivitamin-info {
+  align-self: stretch;
+  gap: var(--gap-34xl);
+}
+.second-catalogue {
+  width: 314px;
+  gap: 48px;
+}
+.neem-aloevera-parent,
+.neem-aloevera-parent-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.neem-aloevera-parent {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: 41px;
+}
+.neem-aloevera-parent-wrapper {
+  flex: 1;
+  align-items: flex-start;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 439px;
+}
+.beaut-home-product-catalogue-p8 {
+  height: 399px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.third-product {
+  width: 237.5px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl);
+  box-sizing: border-box;
+}
+.rose-body-wash,
+.skin-feeling-fresh {
+  position: relative;
+  letter-spacing: 4px;
+  font-weight: 300;
+}
+.rose-body-wash {
+  align-self: stretch;
+  line-height: 22px;
+}
+.skin-feeling-fresh {
+  height: 50px;
+  flex: 1;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+}
+.skin-feeling-fresh-and-clean-wrapper {
+  flex-direction: row;
+  padding: 0 var(--padding-sm) 0 var(--padding-4xl);
+  text-align: left;
+}
+.rose-details,
+.rose-price,
+.skin-feeling-fresh-and-clean-wrapper {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rose-details {
+  flex-direction: column;
+  gap: var(--gap-19xl);
+}
+.rose-price {
+  flex-direction: row;
+  padding: 0 var(--padding-sm) 0 var(--padding-4xl);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.rose-info {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xl);
+  gap: var(--gap-3xs);
+}
+.rose-buy,
+.rose-info,
+.third-catalogue {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rose-buy {
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+}
+.third-catalogue {
+  height: 685px;
+  width: 250px;
+  flex-direction: column;
+  gap: var(--gap-4xl);
+  min-width: 250px;
+  text-align: center;
+}
+.catalogue-parent,
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-div {
+  width: 930px;
+  justify-content: flex-start;
+  gap: 5px;
+}
+.catalogue-parent {
+  width: 1424px;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro);
+}
+.footer-item {
+  width: 1440px;
+  height: 418px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.screenshot-2024-09-03-at-11483 {
+  height: 131px;
+  width: 278px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.screenshot-parent {
+  width: 454px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.icon-instagram1 {
+  width: 33px;
+  height: 31px;
+  position: relative;
+  z-index: 1;
+}
+.privacy-policy1 {
+  width: 454px;
+  position: relative;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.footer-info1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-34xl);
+  max-width: 100%;
+}
+.follow-us1 {
+  width: 454px;
+  position: absolute;
+  margin: 0 !important;
+  top: 84px;
+  right: -79px;
+  display: flex;
+  text-align: left;
+  align-items: center;
+  z-index: 1;
+}
+.desktop-3,
+.footer1 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  padding: 0 330px var(--padding-96xl) var(--padding-518xl);
+  box-sizing: border-box;
+  gap: 59px;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}
+.desktop-3 {
+  width: 100%;
+  background-color: var(--color-gainsboro);
+  overflow: hidden;
+  gap: 109px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 975px) {
+  .latitude-parent1 {
+    display: none;
+  }
+  .latitude-parent-wrapper {
+    width: 0;
+  }
+  .body-products {
+    font-size: var(--font-size-21xl);
+    line-height: 18px;
+  }
+  .frame-section {
+    gap: var(--gap-11xl);
+  }
+  .neem-aloevera-parent {
+    gap: var(--gap-xl);
+  }
+  .third-catalogue {
+    flex: 1;
+  }
+  .frame-div {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    gap: var(--gap-10xl);
+    padding-left: var(--padding-249xl);
+    padding-right: 165px;
+    box-sizing: border-box;
+  }
+  .desktop-3 {
+    gap: 54px;
+  }
+}
+@media screen and (max-width: 725px) {
+  .neem-aloevera-parent-wrapper {
+    min-width: 100%;
+  }
+  .footer-info1 {
+    gap: var(--gap-7xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .body-products {
+    font-size: var(--font-size-11xl);
+    line-height: 13px;
+  }
+  .helpful-in-skin,
+  .neem-aloevera {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .neem-aloevera-info {
+    gap: var(--gap-7xl);
+  }
+  .gentle-and-non-drying {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .multivitamin-info {
+    gap: var(--gap-7xl);
+  }
+  .second-catalogue {
+    gap: var(--gap-5xl);
+  }
+  .rose-body-wash,
+  .skin-feeling-fresh {
+    font-size: var(--font-size-base);
+    line-height: 18px;
+  }
+  .skin-feeling-fresh {
+    line-height: 24px;
+  }
+  .rose-details {
+    gap: var(--gap-lgi);
+  }
+  .follow-us1,
+  .privacy-policy1 {
+    font-size: var(--font-size-lgi);
+  }
+  .footer1 {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-56xl);
+    box-sizing: border-box;
+  }
+  .desktop-3 {
+    gap: 27px;
+  }
+}

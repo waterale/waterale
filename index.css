@@ -1,0 +1,793 @@
+.frame-child3 {
+  height: 115px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.screenshot-2024-09-03-at-11486 {
+  height: 107px;
+  width: 209px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.about3,
+.work3 {
+  text-decoration: none;
+  height: 39px;
+  position: relative;
+  line-height: 30px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  cursor: pointer;
+  z-index: 1;
+}
+.work3 {
+  flex: 1;
+}
+.about3 {
+  align-self: stretch;
+}
+.about-wrapper {
+  flex: 0.9579;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-5xs) 0 0;
+  margin-left: -71px;
+}
+.latitude3,
+.propulsion3 {
+  text-decoration: none;
+  height: 39px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  font-weight: 700;
+  color: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  flex-shrink: 0;
+  margin-left: -71px;
+}
+.latitude3 {
+  cursor: pointer;
+  z-index: 1;
+}
+.propulsion3 {
+  z-index: 2;
+}
+.work-group {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-montserrat);
+}
+.frame-nav,
+.vector-parent1 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-nav {
+  margin: 0;
+  width: 524px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-7xl);
+}
+.vector-parent1 {
+  align-self: stretch;
+  background-color: var(--color-white);
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 var(--padding-mid) var(--padding-5xs) var(--padding-xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+}
+.we-stand-for {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.1em;
+  line-height: 72px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.we-stand-for-wrapper {
+  width: 647px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 68px 41px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.desktop-1-child {
+  width: 401px;
+  height: 150px;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  display: none;
+  max-width: 100%;
+}
+.beaut-home-product-catalogue-p14 {
+  height: 758px;
+  width: 762px;
+  position: absolute;
+  margin: 0 !important;
+  top: -315px;
+  right: -647px;
+  object-fit: cover;
+}
+.sustainability-focus {
+  margin-bottom: 0;
+}
+.sustainability-focus-affordabl {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 53px;
+}
+.sustainability-focus-affordabl-container {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.1em;
+  line-height: 72px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 1;
+}
+.beaut-home-product-catalogue-p-parent,
+.desktop-1-inner {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.beaut-home-product-catalogue-p-parent {
+  flex: 1;
+  position: relative;
+}
+.desktop-1-inner {
+  width: 829px;
+  padding: 0 36px 90px;
+  box-sizing: border-box;
+  font-size: var(--font-size-21xl);
+}
+.gotta-have,
+.gotta-have-wrapper {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.gotta-have {
+  margin: 0;
+  width: 596px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 4px;
+  line-height: 22px;
+  font-weight: 800;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.gotta-have-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) 37px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  font-family: var(--font-sf-pro);
+}
+.beaut-home-product-catalogue-p15,
+.beaut-home-product-catalogue-p16 {
+  height: 399px;
+  width: 132px;
+  position: relative;
+  object-fit: cover;
+}
+.beaut-home-product-catalogue-p16 {
+  height: 405.9px;
+}
+.frame1,
+.rose-body-wash-button {
+  display: flex;
+  flex-direction: row;
+  max-width: 100%;
+}
+.frame1 {
+  flex: 1;
+  overflow: hidden;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.rose-body-wash-button {
+  width: 887px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-24xl);
+  box-sizing: border-box;
+}
+.helps-in-hair3,
+.onion-shampoo1 {
+  position: relative;
+  letter-spacing: 4px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+}
+.onion-shampoo1 {
+  width: 213px;
+  line-height: 22px;
+  justify-content: center;
+}
+.helps-in-hair3 {
+  height: 50px;
+  flex: 1;
+  line-height: 30px;
+}
+.helps-in-hair-growth-frame,
+.onion-shampoo-group {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.helps-in-hair-growth-frame {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-2xs);
+  text-align: left;
+}
+.onion-shampoo-group {
+  flex-direction: column;
+  gap: var(--gap-19xl);
+}
+.div14 {
+  flex: 1;
+  position: relative;
+  line-height: 20px;
+  white-space: nowrap;
+}
+.wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-2xs);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.content-header-child {
+  height: 70px;
+  width: 217px;
+  position: relative;
+  background-color: var(--color-black);
+  display: none;
+}
+.buy-now14 {
+  width: 97px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 97px;
+  z-index: 1;
+}
+.content-header,
+.frame-parent18 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.content-header {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xl) var(--padding-41xl) var(--padding-5xl);
+  background-color: var(--color-black);
+  flex-direction: row;
+  white-space: nowrap;
+}
+.content-header:hover,
+.frame2:hover {
+  background-color: var(--color-darkslategray);
+}
+.frame-parent18 {
+  width: 272px;
+  flex-direction: column;
+  padding: 0 46px 0 0;
+  box-sizing: border-box;
+  gap: var(--gap-34xl);
+}
+.beaut-home-product-catalogue-p17 {
+  height: 399px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.beaut-home-product-catalogue-p-wrapper4 {
+  width: 237.5px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xl);
+  box-sizing: border-box;
+}
+.rose-body-wash1 {
+  align-self: stretch;
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 22px;
+  font-weight: 300;
+}
+.onion-shampoo-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-sm) 0 var(--padding-4xl);
+  text-align: left;
+}
+.info-details {
+  flex-direction: column;
+  gap: var(--gap-19xl);
+}
+.info-details,
+.onion-shampoo-details,
+.onion-shampoo-price {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.onion-shampoo-price {
+  flex-direction: row;
+  padding: 0 var(--padding-sm) 0 var(--padding-4xl);
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--wwwbobbibrownin-thunder-65);
+  font-family: var(--font-helvetica);
+}
+.onion-shampoo-details {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xl);
+  gap: var(--gap-3xs);
+}
+.buy-now15 {
+  width: 97px;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 97px;
+}
+.frame2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-7xl) var(--padding-41xl) var(--padding-5xl);
+  background-color: var(--color-black);
+  overflow: hidden;
+  flex-direction: row;
+  white-space: nowrap;
+}
+.frame-frame,
+.frame-parent20,
+.frame-wrapper9,
+.frame2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-frame {
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+}
+.frame-parent20,
+.frame-wrapper9 {
+  flex-direction: column;
+}
+.frame-parent20 {
+  align-self: stretch;
+  flex: 1;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper9 {
+  height: 1016px;
+  width: 250px;
+  padding: 331px 0 0;
+  box-sizing: border-box;
+}
+.onion-conditioner1 {
+  flex: 1;
+  position: relative;
+  letter-spacing: 4px;
+  line-height: 22px;
+  font-weight: 300;
+}
+.rose-body-wash-description {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-11xs);
+}
+.div16,
+.helps-to-reduce1 {
+  align-self: stretch;
+  position: relative;
+}
+.helps-to-reduce1 {
+  height: 50px;
+  letter-spacing: 4px;
+  line-height: 30px;
+  font-weight: 300;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.div16 {
+  font-size: var(--font-size-mini);
+  line-height: 20px;
+  font-family: var(--font-helvetica);
+  color: var(--wwwbobbibrownin-thunder-65);
+  white-space: nowrap;
+}
+.helps-to-reduce-hair-breakage-group {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xs);
+}
+.helps-to-reduce-hair-breakage-group,
+.rose-body-wash-description-parent,
+.rose-body-wash-price {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rose-body-wash-price {
+  width: 239px;
+  flex-direction: row;
+  padding: 0 var(--padding-smi) var(--padding-mini);
+  box-sizing: border-box;
+  text-align: left;
+}
+.rose-body-wash-description-parent {
+  width: 252px;
+  flex-direction: column;
+  gap: var(--gap-19xl);
+}
+.frame-parent17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.desktop-1-inner1,
+.rose-body-wash-button-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rose-body-wash-button-parent {
+  width: 946px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.desktop-1-inner1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 95px 88px;
+  box-sizing: border-box;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-sf-pro);
+}
+.frame-child5 {
+  width: 1440px;
+  height: 418px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.screenshot-2024-09-03-at-11487 {
+  height: 131px;
+  width: 278px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.screenshot-2024-09-03-at-1148-container {
+  width: 454px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.icon-instagram3 {
+  width: 33px;
+  height: 32px;
+  position: relative;
+  z-index: 1;
+}
+.privacy-policy3 {
+  width: 454px;
+  position: relative;
+  font-weight: 300;
+  white-space: pre-wrap;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.privacy-policy-terms-of-use-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.icon-instagram-group,
+.rectangle-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.icon-instagram-group {
+  align-self: stretch;
+  align-items: flex-end;
+  gap: var(--gap-30xl);
+}
+.rectangle-container {
+  width: 1440px;
+  background-color: var(--color-white);
+  align-items: flex-start;
+  padding: 0 var(--padding-323xl) var(--padding-96xl) var(--padding-518xl);
+  box-sizing: border-box;
+  gap: 62px;
+}
+.follow-us3 {
+  width: 454px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.follow-us-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  margin-top: -334px;
+  text-align: left;
+}
+.desktop-1,
+.frame3 {
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: var(--font-montserrat);
+}
+.frame3 {
+  width: 1519px;
+  min-height: 418px;
+  max-width: 106%;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-100);
+}
+.desktop-1 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-gainsboro);
+  gap: 101px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: left;
+  font-size: 48px;
+  color: var(--color-black);
+}
+@media screen and (max-width: 1200px) {
+  .desktop-1-inner1 {
+    padding-bottom: 62px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 975px) {
+  .we-stand-for {
+    font-size: 38px;
+    line-height: 58px;
+  }
+  .sustainability-focus-affordabl-container {
+    font-size: 32px;
+    line-height: 58px;
+  }
+  .gotta-have {
+    font-size: var(--font-size-21xl);
+    line-height: 18px;
+  }
+  .rose-body-wash-button {
+    padding-left: var(--padding-2xl);
+    padding-right: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+  .frame-wrapper9 {
+    padding-top: 215px;
+    box-sizing: border-box;
+  }
+  .frame-parent17 {
+    flex-wrap: wrap;
+  }
+  .desktop-1-inner1 {
+    padding-left: 44px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 725px) {
+  .we-stand-for {
+    font-size: 29px;
+    line-height: 43px;
+  }
+  .sustainability-focus-affordabl-container {
+    font-size: var(--font-size-5xl);
+    line-height: 43px;
+  }
+  .desktop-1-inner {
+    padding-bottom: 58px;
+    box-sizing: border-box;
+  }
+  .gotta-have {
+    font-size: var(--font-size-11xl);
+    line-height: 13px;
+  }
+  .frame1 {
+    flex-wrap: wrap;
+  }
+  .helps-in-hair3,
+  .onion-shampoo1 {
+    font-size: var(--font-size-base);
+    line-height: 18px;
+  }
+  .helps-in-hair3 {
+    line-height: 24px;
+  }
+  .frame-parent18 {
+    gap: var(--gap-7xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .rose-body-wash1 {
+    font-size: var(--font-size-base);
+    line-height: 18px;
+  }
+  .info-details {
+    gap: var(--gap-lgi);
+  }
+  .helps-to-reduce1,
+  .onion-conditioner1 {
+    font-size: var(--font-size-base);
+    line-height: 18px;
+  }
+  .helps-to-reduce1 {
+    line-height: 24px;
+  }
+  .rose-body-wash-description-parent {
+    gap: var(--gap-lgi);
+  }
+  .desktop-1-inner1 {
+    padding-bottom: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+  .privacy-policy3 {
+    font-size: var(--font-size-lgi);
+  }
+  .rectangle-container {
+    gap: var(--gap-mini);
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    padding-bottom: var(--padding-56xl);
+    box-sizing: border-box;
+  }
+  .follow-us3 {
+    font-size: var(--font-size-lgi);
+  }
+  .desktop-1 {
+    gap: 25px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .frame-nav {
+    display: none;
+  }
+  .we-stand-for-wrapper {
+    padding-left: var(--padding-15xl);
+    padding-right: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .frame-wrapper9 {
+    padding-top: 140px;
+    box-sizing: border-box;
+  }
+  .desktop-1-inner1 {
+    padding-left: var(--padding-3xl);
+    padding-bottom: var(--padding-21xl);
+    box-sizing: border-box;
+  }
+  .icon-instagram-group {
+    gap: var(--gap-5xl);
+  }
+  .rectangle-container {
+    gap: var(--gap-12xl);
+    padding-left: var(--padding-249xl);
+    padding-right: var(--padding-152xl);
+    box-sizing: border-box;
+  }
+  .desktop-1 {
+    gap: 50px;
+  }
+}
